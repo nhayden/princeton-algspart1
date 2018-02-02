@@ -1,3 +1,10 @@
+// Class BruteCollinearPoints
+// Author: Nathaniel Hayden
+// Purpose: Brute force detection of collinear points for sake of comparison
+// Additional comments:
+//   - For simplicity ad hoc unit tests included here
+// Based on assignment 3 of Princeton Algorithms I course
+
 import java.util.Arrays;
 import java.util.ArrayList;
 
