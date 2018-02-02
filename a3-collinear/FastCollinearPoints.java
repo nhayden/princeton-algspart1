@@ -1,8 +1,6 @@
 // Class FastCollinearPoints
 // Author: Nathaniel Hayden
 // Purpose: Efficient detection of collinear points
-// Additional comments:
-//   - For simplicity ad hoc unit tests included here
 // Based on assignment 3 of Princeton Algorithms I course
 
 import java.util.Arrays;
