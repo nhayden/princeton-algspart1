@@ -1,3 +1,10 @@
+// Class KdTree
+// Author: Nathaniel Hayden
+// Purpose: Implement KD tree algorithm for 2 dimensions
+// Additional comments:
+//   - For simplicity some ad hoc testing included here
+// Based on assignment 5 of Princeton Algorithms I course
+
 import java.util.ArrayList;
 
 import edu.princeton.cs.algs4.Point2D;

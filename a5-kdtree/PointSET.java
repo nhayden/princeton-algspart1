@@ -1,3 +1,8 @@
+// Class PointSET
+// Author: Nathaniel Hayden
+// Purpose: Maintain ordered set of 2D points for us in KD tree
+// Based on assignment 5 of Princeton Algorithms I course
+
 import java.util.TreeSet;
 import java.util.ArrayList;
 
@@ -47,7 +52,6 @@ public class PointSET {
     }
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
 
     }
 
