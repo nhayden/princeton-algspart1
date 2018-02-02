@@ -1,3 +1,8 @@
+// Class Solver
+// Author: Nathaniel Hayden
+// Purpose: Use of A* algorithm to solve 8 puzzle sliding game
+// Based on assignment 4 of Princeton Algorithms I course
+
 import edu.princeton.cs.algs4.MinPQ;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdOut;

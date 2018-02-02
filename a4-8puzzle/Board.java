@@ -1,3 +1,10 @@
+// Class Board
+// Author: Nathaniel Hayden
+// Purpose: Maintain board and info for use in A* algorithm to solve
+//   8 puzzle sliding game
+// Additional comments:
+//   - For simplicity some ad hoc testing included here
+// Based on assignment 4 of Princeton Algorithms I course
 
 import java.util.ArrayDeque;
 
